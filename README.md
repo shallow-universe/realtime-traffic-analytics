@@ -374,6 +374,11 @@ realtime-traffic-analytics/
 **3 BI views** for analytics consumption
 
 ---
+## Dashboard
+<img width="4135" height="3279" alt="Live Traffic Analytics Dashboard_page-0001" src="https://github.com/user-attachments/assets/1e3629af-ebed-463b-bd4f-cbca945ff4b4" />
+
+
+---
 
 ## 📄 License
 
